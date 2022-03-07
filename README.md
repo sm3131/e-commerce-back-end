@@ -18,7 +18,7 @@ This project contains the back end code for an e commerce application. The code 
 
 ## Built With
 
-The Team Profile generator application was built with:
+The E-Commerce Back End application was built with:
 - JavaScript
 - Node.js
 - File System
@@ -119,4 +119,4 @@ For the license badges and license section of the readme, I used the following r
 - https://choosealicense.com/ (To help with picking which licenses to include)
 - https://shields.io/ (To generate the link to create the license badge)
 - https://wisehackermonkey.github.io/badge-demo/ (To help with coloring the license badges and grabbing the license links)
-- https://opensource.org/licenses/ (To borrow the license section text describing the terms of each of the licenses included in the readme generator)
+- https://opensource.org/licenses/ (To borrow the license section text describing the terms of the licenses included in the readme)
